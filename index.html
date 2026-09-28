@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"> 
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -46,7 +46,7 @@
   // fetch() with an unhelpful "non ISO-8859-1 code point" error. Fail here
   // instead, naming the exact character.
   (function assertKeyIsHeaderSafe(key) {
-    const bad = [...key].findIndex(ch => ch.codePointAt(0) > 255); 
+    const bad = [...key].findIndex(ch => ch.codePointAt(0) > 255);
     if (bad !== -1) {
       const ch = key[bad];
       throw new Error(
