@@ -18,7 +18,7 @@ Follow these instructions to set up a local copy of the project for development 
 
 1. **Clone the repository:**
    ```
-   git clone [https://github.com](https://github.com/AM-cyber-sys/AM.cyber.sys.github.io.git)
+   git clone https://github.com/AM-cyber-sys/AM.cyber.sys.github.io.git
    ```
 
 ##  Deployment
