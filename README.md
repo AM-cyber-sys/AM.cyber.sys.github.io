@@ -6,7 +6,7 @@ A clean, responsive personal website built to showcase my projects, professional
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Styling:** Plain Custom CSS
-- **Hosting & Deployment:** Vercel / GitHub
+- **Hosting & Deployment:** Vercel / GitHub / Supabase
 
 ---
 
